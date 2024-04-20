@@ -5,7 +5,7 @@ const productos = [
         desc:"grafica",
         precio:90000,
         img:"src/img/goku2.jpg",
-        cantidad:1,
+        cantidad:1
     },
     {
         id:2,
@@ -13,7 +13,7 @@ const productos = [
         desc:"grafica",
         precio:1500,
         img:"src/img/krilingoku2.jpg",
-        cantidad:1,
+        cantidad:1
     },
     {
         id:3,
@@ -21,7 +21,7 @@ const productos = [
         desc:"grafica",
         precio:90000,
         img:"src/img/krilingoku3.jpg",
-        cantidad:1,
+        cantidad:1
     },
     {
         id:4,
@@ -29,6 +29,6 @@ const productos = [
         desc:"grafica",
         precio:90000,
         img:"src/img/krilingoku4.jpg",
-        cantidad:1,
+        cantidad:1
     },
 ]
